@@ -2,7 +2,7 @@
 I'm Pedro Mascarenhas, software developer in Brazil.
 
 - 👨🏽‍💻 I currently work as a technology instructor.
-- 🧠 I'm currently learning Docker, Serverless Architecture(AWS) and automated testing.
+- 🧠 I'm currently learning Docker, Serverless architecture (AWS) and automated testing.
 - 🚀 I love participating in bootcamps.
 - 💬 Ask me about anything, I am happy to help.
 - 📫 How to reach me: pedro_drosa@hotmail.com.
